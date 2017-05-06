@@ -1,4 +1,4 @@
-# Javascript Exercises
+# JavaScript Exercises
 
 **Iron Yard Class Assignment**
 
